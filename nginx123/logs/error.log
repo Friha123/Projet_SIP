@@ -1,0 +1,8 @@
+2024/07/21 13:51:33 [emerg] 14196#13736: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/07/21 13:51:48 [emerg] 23564#6648: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/07/21 19:18:09 [emerg] 5376#14240: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/07/22 01:30:09 [error] 23956#23072: *1 "C:\Users\oussama2004\Desktop\Projet_SIP\nginx-1.26.1/html/phpmyadmin/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /phpmyadmin/ HTTP/1.1", host: "localhost"
+2024/07/22 02:21:06 [error] 23956#23072: *4 "C:\Users\oussama2004\Desktop\Projet_SIP\nginx-1.26.1/html/phpmyadmin/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /phpmyadmin/ HTTP/1.1", host: "localhost"
+2024/07/22 03:35:23 [alert] 13456#22700: worker process 32 exited with code C0000142
+2024/07/22 03:35:23 [alert] 13456#22700: could not respawn worker
+2024/07/22 16:44:08 [emerg] 19672#1224: CreateFile() "C:\Users\oussama2004\Desktop\Projet_SIP\nginx123/conf/mime.types" failed (2: The system cannot find the file specified) in C:\Users\oussama2004\Desktop\Projet_SIP\nginx123/conf/nginx.conf:15
