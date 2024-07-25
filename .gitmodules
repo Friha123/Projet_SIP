@@ -1,0 +1,6 @@
+[submodule "fullstack-backend"]
+	path = fullstack-backend
+	url = https://github.com/Friha123/Projet_SIP.git
+[submodule "fullstack-frontend"]
+	path = fullstack-frontend
+	url = https://github.com/Friha123/Projet_SIP.git
